@@ -2,6 +2,8 @@
 
 Personal repo for applying Unity ML agents in practice based on **Learn Unity ML-agents, Fundamental of Unity Machine Learning**.
 
+---
+
 ### Content note
 책과 상이한 부분들 서술
 #### Chapter 02. ML-Agents 맛보기
