@@ -4,7 +4,7 @@ Personal repo for applying Unity ML agents in practice based on **Learn Unity ML
 ***Notes..***  
 The Tensorflow library they took is not the version(Tensorflow 2.0) we use today since 2020.  
 Hence I gave a little twist to the content and decided to use Pytorch, as unity ml-agents new releases supports Pytorch instead of Tensorflow.  
-I only took the idea from the book and Hope this can be a great tutorial for newbies out there.
+I only took the idea from the book and hope this can be a great tutorial for newbies out there.
 
 ---
 
